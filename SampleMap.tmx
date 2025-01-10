@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="23">
+ <tileset firstgid="1" source="TestMap.tsx"/>
+ <layer id="1" name="background" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztw0ENAAAMA6Hz76Bup2I/SFg1VVVVVVVVVVVVVVXVxwfsvEka
+  </data>
+ </layer>
+ <layer id="2" name="graphics" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt09sJwjAUANA0v+pE4kBSF+oGjtINXKcGlGpEsGAbEk7gwP1IIPc1hBAGAAAAAAAAAADI9HGOj/H3d6cFd2uTzrnh/GhH2t/wiJfs76Xh+U67W/v+XrtPpf9Us919HvYreu3TGMnduu/W7EsJzzk4xPcZ3KrWpfP/t7yOQF0mr2sTvA==
+  </data>
+ </layer>
+ <objectgroup id="3" name="ground">
+  <object id="4" x="0" y="192" width="368"/>
+  <object id="5" x="368" y="176" width="160" height="16"/>
+  <object id="6" x="528" y="176" width="368" height="16"/>
+  <object id="7" x="880" y="192" width="448"/>
+  <object id="8" x="1328" y="176" width="192" height="16"/>
+  <object id="9" x="1520" y="176" width="416" height="16"/>
+  <object id="10" x="1920" y="176" width="496" height="16"/>
+  <object id="11" x="2416" y="176" width="112" height="16"/>
+  <object id="12" x="2496" y="160" width="80" height="16"/>
+  <object id="13" x="2576" y="176" width="416" height="16"/>
+  <object id="14" x="2992" y="176" width="544" height="16"/>
+  <object id="15" x="3552" y="176" width="288" height="16"/>
+  <object id="16" x="3536" y="176" width="16" height="16"/>
+  <object id="17" x="3568.24" y="250.059"/>
+  <object id="18" x="1712" y="160" width="32" height="16"/>
+  <object id="19" x="1728" y="144" width="16" height="16"/>
+  <object id="20" x="832" y="144" width="16" height="32"/>
+  <object id="21" x="656" y="144" width="16" height="32"/>
+  <object id="22" x="608" y="144" width="16" height="32"/>
+ </objectgroup>
+ <objectgroup id="4" name="platforms"/>
+ <objectgroup id="5" name="walls"/>
+</map>
