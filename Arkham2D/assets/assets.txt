@@ -1,3 +1,0 @@
-Testgrounds.tmx
-background.gif
-libgdx.png
