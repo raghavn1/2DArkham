@@ -1,0 +1,12 @@
+
+batman_sprite.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Mobile - Superman Batman Heroes United - Batman
+  rotate: false
+  xy: 1, 1
+  size: 620, 560
+  orig: 620, 560
+  offset: 0, 0
+  index: -1
