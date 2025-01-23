@@ -1,5 +1,4 @@
 # Arkham2D
----
 ## File Structure
 
 - ### Game Folder
