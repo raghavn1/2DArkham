@@ -1,6 +1,0 @@
-Custom Edited - Castlevania Customs - Alchemy Laboratory Tileset.png
-Daredevil.pack
-Daredevil.png
-ExperimentMap.tmx
-baton-removebg-preview.png
-libgdx.png
