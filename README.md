@@ -29,9 +29,9 @@
     - Arkham 2D.png - The background image for the StartScreen
     - Custom Edited - Castlevania Customs - Alchemy Laboratory Tileset.png - The tileset which the TiledMap is based on
     - ExperimentMap.tmx - The TiledMap file which is rendered as the map and contains the graphics level and the objects layer which the player and sprites collide on
-    - ThugSprite.pack - The `.pack`{: .filepath} file for the enemy sprite atlas
-    - ThugSprite.png - The `.png`{: .filepath} that the enemy sprites come from
+    - ThugSprite.pack - The `.pack` file for the enemy sprite atlas
+    - ThugSprite.png - The `.png` that the enemy sprites come from
     - assets.txt - The file that contains a list of all the assets used by LibGDX
-    - batmanSprites.pack - The `.pack`{: .filepath} file for Batman's sprite atlas
-    - batmanSprites.png - The `.png`{: .filepath} file that Batman's sprites come from
+    - batmanSprites.pack - The `.pack` file for Batman's sprite atlas
+    - batmanSprites.png - The `.png` file that Batman's sprites come from
     - gameOver.jpg - The background image used to render the game over screen
